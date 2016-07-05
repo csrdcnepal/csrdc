@@ -1,0 +1,12 @@
+2016-07-05 14:52:07,944 [INFO] from play.core.server.NettyServer in play-fork-run-akka.actor.default-dispatcher-2 - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2016-07-05 14:52:13,210 [INFO] from application in ForkJoinPool-1-worker-1 - Creating Pool for datasource 'default'
+2016-07-05 14:52:14,082 [INFO] from play.api.db.DefaultDBApi in ForkJoinPool-1-worker-1 - Database [default] connected at jdbc:mysql://localhost/csrdcdb
+2016-07-05 14:52:14,756 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
+2016-07-05 18:11:12,107 [INFO] from application in application-akka.actor.default-dispatcher-9 - Shutting down connection pool.
+2016-07-05 18:11:12,322 [INFO] from application in application-akka.actor.default-dispatcher-9 - Creating Pool for datasource 'default'
+2016-07-05 18:11:12,340 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-9 - Database [default] connected at jdbc:mysql://localhost/csrdcdb
+2016-07-05 18:11:12,475 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-9 - Application started (Dev)
+2016-07-05 18:13:25,148 [INFO] from application in application-akka.actor.default-dispatcher-2 - Shutting down connection pool.
+2016-07-05 18:13:25,383 [INFO] from application in application-akka.actor.default-dispatcher-2 - Creating Pool for datasource 'default'
+2016-07-05 18:13:25,397 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-2 - Database [default] connected at jdbc:mysql://localhost/csrdcdb
+2016-07-05 18:13:25,571 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-2 - Application started (Dev)

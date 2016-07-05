@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/rajan/web-master/conf/application.conf,/home/rajan/web-master/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/rajan/web-master/conf/routes,/home/rajan/web-master/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/rajan/web-master/conf/logback.xml,/home/rajan/web-master/target/scala-2.11/classes/logback.xml)[0m
